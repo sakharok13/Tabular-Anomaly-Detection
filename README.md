@@ -1,4 +1,4 @@
-# Table-Anomaly-Detection
+# Tabular-Anomaly-Detection
 Anomaly Detection models 
 
 
